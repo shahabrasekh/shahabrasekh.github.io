@@ -9,7 +9,17 @@
       <link>https://shahabrasekh.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 29 Dec 2021 13:19:49 +0330</lastBuildDate><atom:link href="https://shahabrasekh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jan 2022 13:24:34 +0330</lastBuildDate><atom:link href="https://shahabrasekh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>پیاده سازی هوگو</title>
+      <link>https://shahabrasekh.github.io/posts/hugodeployment/</link>
+      <pubDate>Sun, 02 Jan 2022 13:24:34 +0330</pubDate>
+      
+      <guid>https://shahabrasekh.github.io/posts/hugodeployment/</guid>
+      <description>خیلی ساده اقداماتی که برای این مهاجرت لازم است را تشریح می کنم.
+مسیری مهاجرت از وردپرس به هوگو  ساخت سایت با استفاده از راهنمای سریع هوگو تنظیمات فارسی بلاگ که با توجه به تم انتخابی می تواند متفاوت باشد. اما من در فایل config قطعه کد زیر را وارد کردم.  languages: fa: languagedirection: rtl  بارگذاری فایل ها روی گیت هاب و ساخت اکشن ها با استفاده از این ویدیو (که برای پخش نیاز به دسترسی به یوتیوب دارید):     اتصال دامنه شخصی با استفاده از cname به گیت هاب.</description>
+    </item>
+    
     <item>
       <title>مهاجرت به هوگو</title>
       <link>https://shahabrasekh.github.io/posts/hugotransformation/</link>

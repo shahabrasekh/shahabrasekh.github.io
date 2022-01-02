@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Shahab&#39;s Blog</title>
-    <link>https://shahabrasekh.github.io/</link>
-    <description>Recent content on Shahab&#39;s Blog</description>
+    <title>wordpress on Shahab&#39;s Blog</title>
+    <link>https://shahabrasekh.github.io/tags/wordpress/</link>
+    <description>Recent content in wordpress on Shahab&#39;s Blog</description>
     <image>
       <url>https://shahabrasekh.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://shahabrasekh.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 02 Jan 2022 13:24:34 +0330</lastBuildDate><atom:link href="https://shahabrasekh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jan 2022 13:24:34 +0330</lastBuildDate><atom:link href="https://shahabrasekh.github.io/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>پیاده سازی هوگو</title>
       <link>https://shahabrasekh.github.io/posts/hugodeployment/</link>
@@ -19,19 +19,6 @@
       <description>خیلی ساده اقداماتی که برای این مهاجرت لازم است را تشریح می کنم.
 مسیری مهاجرت از وردپرس به هوگو  ساخت سایت با استفاده از راهنمای سریع هوگو تنظیمات فارسی بلاگ که با توجه به تم انتخابی می تواند متفاوت باشد. اما من در فایل config قطعه کد زیر را وارد کردم.  languages: fa: languagedirection: rtl  بارگذاری فایل ها روی گیت هاب و ساخت اکشن ها با استفاده از این ویدیو (که برای پخش نیاز به دسترسی به یوتیوب دارید):     اتصال دامنه شخصی با استفاده از cname به گیت هاب.</description>
     </item>
-    
-    <item>
-      <title>مهاجرت به هوگو</title>
-      <link>https://shahabrasekh.github.io/posts/hugotransformation/</link>
-      <pubDate>Wed, 29 Dec 2021 13:19:49 +0330</pubDate>
-      
-      <guid>https://shahabrasekh.github.io/posts/hugotransformation/</guid>
-      <description>مهاجرت از وردپرس به هوگو از ابتدای کار با وردپرس به مشکلی که برخوردم، پیچیدگی ایجاد پست و لزوم آنلاین بودن و استفاده از پنل وردپرس برای رفع مشکلات وبلاگم بود. لذا همواره به دنبال راه هایی برای ساده کردن این فرایند بودم.
-پیشتر با مفهوم نرم افزارهای متن باز آشنا بودم. اما اخیرا بیشتر درگیر این مفهوم شدم و با هوگو آشنا شدم.
-مشکلات وردپرسی ۱. داینامیک بودن وردپرس :</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
