@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shahabrasekh.github.io/</loc>
-    <lastmod>2022-01-03T22:12:01+03:30</lastmod>
-  </url><url>
-    <loc>https://shahabrasekh.github.io/archive/</loc>
-    <lastmod>2022-01-03T22:12:01+03:30</lastmod>
-  </url><url>
-    <loc>https://shahabrasekh.github.io/tags/hugo/</loc>
-    <lastmod>2022-01-02T13:24:34+03:30</lastmod>
+    <loc>https://shahabrasekh.github.io/tags/apqc/</loc>
+    <lastmod>2022-01-08T22:30:03+03:30</lastmod>
   </url><url>
     <loc>https://shahabrasekh.github.io/posts/</loc>
-    <lastmod>2022-01-02T13:24:34+03:30</lastmod>
+    <lastmod>2022-01-08T22:30:03+03:30</lastmod>
+  </url><url>
+    <loc>https://shahabrasekh.github.io/</loc>
+    <lastmod>2022-01-08T22:30:03+03:30</lastmod>
   </url><url>
     <loc>https://shahabrasekh.github.io/tags/</loc>
+    <lastmod>2022-01-08T22:30:03+03:30</lastmod>
+  </url><url>
+    <loc>https://shahabrasekh.github.io/posts/startipqc/</loc>
+    <lastmod>2022-01-08T22:30:03+03:30</lastmod>
+  </url><url>
+    <loc>https://shahabrasekh.github.io/tags/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%A7%DB%8C%D8%AF%D9%87-apqc/</loc>
+    <lastmod>2022-01-08T22:30:03+03:30</lastmod>
+  </url><url>
+    <loc>https://shahabrasekh.github.io/tags/%D9%85%D9%82%D8%AF%D9%85%D9%87/</loc>
+    <lastmod>2022-01-08T22:30:03+03:30</lastmod>
+  </url><url>
+    <loc>https://shahabrasekh.github.io/tags/hugo/</loc>
     <lastmod>2022-01-02T13:24:34+03:30</lastmod>
   </url><url>
     <loc>https://shahabrasekh.github.io/tags/wordpress/</loc>
@@ -32,8 +41,26 @@
     <loc>https://shahabrasekh.github.io/posts/hugotransformation/</loc>
     <lastmod>2021-12-29T13:19:49+03:30</lastmod>
   </url><url>
+    <loc>https://shahabrasekh.github.io/tags/1399/</loc>
+    <lastmod>2021-03-26T15:16:26+00:00</lastmod>
+  </url><url>
     <loc>https://shahabrasekh.github.io/categories/</loc>
-    <lastmod>2020-01-01T19:04:28+00:00</lastmod>
+    <lastmod>2021-03-26T15:16:26+00:00</lastmod>
+  </url><url>
+    <loc>https://shahabrasekh.github.io/tags/%D8%A8%D9%88%D9%84%D8%AA-%DA%98%D9%88%D8%B1%D9%86%D8%A7%D9%84/</loc>
+    <lastmod>2021-03-26T15:16:26+00:00</lastmod>
+  </url><url>
+    <loc>https://shahabrasekh.github.io/categories/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%AF%D8%B1-%D8%B2%D9%86%D8%AF%DA%AF%DB%8C/</loc>
+    <lastmod>2021-03-26T15:16:26+00:00</lastmod>
+  </url><url>
+    <loc>https://shahabrasekh.github.io/tags/%DA%A9%D9%88%D9%84%D9%87-%D9%BE%D8%B4%D8%AA%DB%8C/</loc>
+    <lastmod>2021-03-26T15:16:26+00:00</lastmod>
+  </url><url>
+    <loc>https://shahabrasekh.github.io/2021/03/life-management/99-backpack/</loc>
+    <lastmod>2021-03-26T15:16:26+00:00</lastmod>
+  </url><url>
+    <loc>https://shahabrasekh.github.io/tags/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4/</loc>
+    <lastmod>2021-03-26T15:16:26+00:00</lastmod>
   </url><url>
     <loc>https://shahabrasekh.github.io/categories/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C/</loc>
     <lastmod>2020-01-01T19:04:28+00:00</lastmod>
@@ -58,5 +85,7 @@
   </url><url>
     <loc>https://shahabrasekh.github.io/project/</loc>
     <priority>0</priority>
+  </url><url>
+    <loc>https://shahabrasekh.github.io/archives/</loc>
   </url>
 </urlset>

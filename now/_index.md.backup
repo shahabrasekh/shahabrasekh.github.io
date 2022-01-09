@@ -1,0 +1,29 @@
+---
+title: "اکنون"
+date: 2021-12-30T12:53:51+03:30
+draft: false
+
+cover:
+    image: "<image path/url>" # image path/url
+    alt: "<alt text>" # alt text
+    caption: "<text>" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: true # only hide on current single page
+---
+
+وجود صفحه اکنون برای ایجاد تمرکز و تعهد روی کارهایی است که در حال حاضر روی آن ها کار میکنم.
+
+[توضیح چرایی آن](https://nownownow.com/about) برایم جذاب بود، لذا تصمیم گرفتم در اولین فرصت پس از مهاجرت به هوگو این صفحه را به صفحه های خودم اضافه کنم.
+
+انگار که با این روش، اعلام میکنیم که در حال انجام چه کارهایی هستیم و به شکلی متعهد به انجام ایشان هستیم.
+
+---
+
+در حال حاضر روی این سرفصل ها کار میکنم:
+1. مدل APQC و پست های معرفی مدل
+	1. پست معرفی و تاریخچه شکل گیری APQC
+2. چک لیست های مدل APQC
+
+3. پایتون
+4. انتقال پست های بلاگ وردپرس به هوگو
+	1. پست [رشت](https://shahabrasekh.ir/2020/01/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C/rasht/) و کوله پشتی ۹۹
