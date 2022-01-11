@@ -1,0 +1,41 @@
+---
+title: "پیاده سازی هوگو"
+date: 2022-01-02T13:24:34+03:30
+#weight: 1
+# aliases: ["/first"]
+tags: ["hugo","wordpress","هوگو"]
+author: "شهاب راسخ"
+# author: ["Me", "You"] # multiple authors
+showToc: false
+TocOpen: false
+draft: false
+hidemeta: false
+comments: true
+disableHLJS: true # to disable highlightjs
+disableShare: true
+hideSummary: false
+searchHidden: true
+ShowReadingTime: false
+ShowBreadCrumbs: false
+ShowPostNavLinks: false
+
+
+---
+خیلی ساده اقداماتی که برای این مهاجرت لازم است را تشریح می کنم.
+
+## مسیر مهاجرت از وردپرس به هوگو
+1. ساخت سایت با استفاده از راهنمای سریع [هوگو](https://gohugo.io/getting-started/quick-start/)
+2. تنظیمات فارسی بلاگ که با توجه به تم انتخابی می تواند متفاوت باشد. اما من در فایل config قطعه کد زیر را وارد کردم.
+```
+languages:
+  fa:
+    languagedirection: rtl
+```
+3. بارگذاری فایل ها روی گیت هاب و ساخت اکشن ها با استفاده از این [ویدیو](https://www.youtube.com/watch?v=LIFvgrRxdt4&t=1s) (که برای پخش نیاز به دسترسی به یوتیوب دارید):
+{{< youtube id="LIFvgrRxdt4&t" title="Creating a Blog with Hugo and Github in 10 minutes" >}}	
+
+4. اتصال دامنه شخصی با استفاده از cname به گیت هاب. که این کار هم با کمک این [لینک](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages
+) انجام شد.
+
+
+- برای پیاده سازی بلاگ به این روش قطعا مسیرهای زیادی را آزموده ام. و در نهایت این روش برای من کارساز بود.
