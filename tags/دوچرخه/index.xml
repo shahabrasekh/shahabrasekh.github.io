@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>لاهیجان on Shahab&#39;s Blog</title>
-    <link>https://shahabrasekh.github.io/tags/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86/</link>
-    <description>Recent content in لاهیجان on Shahab&#39;s Blog</description>
+    <title>دوچرخه on Shahab&#39;s Blog</title>
+    <link>https://shahabrasekh.github.io/tags/%D8%AF%D9%88%DA%86%D8%B1%D8%AE%D9%87/</link>
+    <description>Recent content in دوچرخه on Shahab&#39;s Blog</description>
     <image>
       <url>https://shahabrasekh.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://shahabrasekh.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 May 2023 22:42:13 +0330</lastBuildDate><atom:link href="https://shahabrasekh.github.io/tags/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 May 2023 22:42:13 +0330</lastBuildDate><atom:link href="https://shahabrasekh.github.io/tags/%D8%AF%D9%88%DA%86%D8%B1%D8%AE%D9%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>کوله پشتی ۰۲</title>
       <link>https://shahabrasekh.github.io/posts/backpack1402/</link>
@@ -17,15 +17,6 @@
       
       <guid>https://shahabrasekh.github.io/posts/backpack1402/</guid>
       <description>قسمتی از برداشت هایم از سال ۱۴۰۱</description>
-    </item>
-    
-    <item>
-      <title>کوله پشتی سال ۰۰</title>
-      <link>https://shahabrasekh.github.io/posts/backpack1400/</link>
-      <pubDate>Sun, 20 Feb 2022 11:02:08 +0330</pubDate>
-      
-      <guid>https://shahabrasekh.github.io/posts/backpack1400/</guid>
-      <description>به اختصار از یافته ها و دریافت ها از ۱۴۰۰ می نویسم</description>
     </item>
     
   </channel>
