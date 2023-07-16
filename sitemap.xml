@@ -189,5 +189,7 @@
     <priority>0</priority>
   </url><url>
     <loc>https://shahabrasekh.github.io/archives/</loc>
+  </url><url>
+    <loc>https://shahabrasekh.github.io/search/</loc>
   </url>
 </urlset>
