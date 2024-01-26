@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>upstream on Shahab&#39;s Blog</title>
+    <link>https://shahabrasekh.github.io/tags/upstream/</link>
+    <description>Recent content in upstream on Shahab&#39;s Blog</description>
+    <image>
+      <title>Shahab&#39;s Blog</title>
+      <url>https://shahabrasekh.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://shahabrasekh.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 12 Jan 2024 12:45:50 +0330</lastBuildDate><atom:link href="https://shahabrasekh.github.io/tags/upstream/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>بالادست</title>
+      <link>https://shahabrasekh.github.io/posts/upstream/</link>
+      <pubDate>Fri, 12 Jan 2024 12:45:50 +0330</pubDate>
+      
+      <guid>https://shahabrasekh.github.io/posts/upstream/</guid>
+      <description>دریافت های من از کتاب بالادست</description>
+    </item>
+    
+  </channel>
+</rss>
